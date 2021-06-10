@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=jeongmiKim&fontColor=3F3F3F)
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3><br>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
