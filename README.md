@@ -14,5 +14,9 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> &nbsp 
 </p>
-
-<h3 align="center">:postbox:</h3>
+<br><br>
+<h3 align="center">:cherry_blossom: Me :cherry_blossom:</h3>
+<p align="center">
+<a href="https://www.instagram.com/jjgooo_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
+<a href="mailto:kjm79430@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+</p>
